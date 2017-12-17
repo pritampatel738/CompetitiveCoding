@@ -1,0 +1,3 @@
+# CompetitiveCoding
+this is all about standard coding algorithm that are majorily used in modern day competitive coding contests
+and the codes related to them.....
